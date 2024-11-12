@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-# H1
+# My favorite series
 1. Big Bang theory
 2. Brooklyn nine-nine
 3. Superstore
